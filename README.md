@@ -81,10 +81,11 @@ print("Models trained and saved successfully!")
 
 ## Output:
 ![WhatsApp Image 2026-03-19 at 11 24 59 AM](https://github.com/user-attachments/assets/02a7dd1a-f83c-499f-bac7-9c9314eb943b)
-![WhatsApp Image 2026-03-19 at 11 24 59 AM](https://github.com/user-attachments/assets/7f724a40-5bf9-4989-bc7a-9fcb9a13fc1d)
-![WhatsApp Image 2026-03-19 at 11 25 45 AM](https://github.com/user-attachments/assets/a96a7e19-5865-4ded-87f2-33d31d0a80f7)
-![WhatsApp Image 2026-03-19 at 11 25 45 AM](https://github.com/user-attachments/assets/0eacfcd6-0f89-4457-8e38-7f9046f976a8)
-![WhatsApp Image 2026-03-19 at 11 26 30 AM](https://github.com/user-attachments/assets/22b0104f-0b5a-47bd-8381-5754fce8b797)
+<img width="971" height="357" alt="image" src="https://github.com/user-attachments/assets/fc21a813-17db-405c-b34e-3c1817797408" />
+<img width="977" height="359" alt="image" src="https://github.com/user-attachments/assets/d04fec2a-337e-4c2b-b160-da3dfc4b6354" />
+<img width="983" height="355" alt="image" src="https://github.com/user-attachments/assets/23bbbd49-08fe-4176-a241-01ed6ebd2cfa" />
+<img width="1600" height="121" alt="image" src="https://github.com/user-attachments/assets/ee327592-33dc-40dd-bb05-adb05397f3d8" />
+
 
 
 ## Result:
